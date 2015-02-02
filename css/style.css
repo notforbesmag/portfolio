@@ -72,8 +72,6 @@ li {
 		border-bottom: solid rgba(166,171,247,1) 2px;
 }
 #chicago {
-	outline: solid white 1px;
-	border: solid white 1px;
 	height: 300px;
 }
 #ppt {
